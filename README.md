@@ -5,4 +5,4 @@
 # 설명
 MJA의 우두머리이자 HCA의 연구원이다. 더시드위키에서 오차단된 사용자다.
 ## 더시드위키 계정의 오차단 관련
-[이 문서](repo:SeanSentIGPCkr/더시드위키 션센트 오차단 관련) 참조.
+[이 문서](https://github.com/SeanSentIGPCkr/banned-in-Tsw/blob/main/README.md) 참조.
